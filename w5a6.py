@@ -13,4 +13,6 @@ def maytinhbotui(num1, num2, operat):
             return "không thể chia cho 0"
         result = num1 / num2
     return round(result, 2)
+print(maytinhbotui(a, b, op))
+
         
