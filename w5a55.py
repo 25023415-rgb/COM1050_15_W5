@@ -5,4 +5,5 @@ def timvitri(lst, k):
         if value == k:
             return index
     return -1
+
 print(timvitri(lst, k))
